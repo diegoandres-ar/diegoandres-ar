@@ -46,21 +46,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/diegoandres-ar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegoandres-ar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/diegoandres-ar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegoandres-ar&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoandres-ar&theme=dark&hide_border=true"/>
-</p>
-
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
