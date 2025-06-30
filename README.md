@@ -55,8 +55,7 @@
 
 ## 💡 What I’m Working On
 
-- 🛠️ Building a responsive **Facturación Electrónica** platform using Angular, .NET, and Oracle.
-- 📱 Developing an interactive **Chat Component** for UniTrade with real-time messaging.
+- 🛠️ Building a responsive **Electronic billing** platform using Angular, .NET, and Oracle.
 - ☁️ Exploring **Cloud Integrations**: Firebase Authentication & Firestore.
 
 ---
