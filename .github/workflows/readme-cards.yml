@@ -34,6 +34,9 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide=stars,issues,contribs&theme=dark_github
           path: profile/stats-dark.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          # If the token expires or the API fails, keep the last good SVG
+          # instead of committing an error card.
+          fail_on_error: true
 
       - name: Generate stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -42,6 +45,9 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide=stars,issues,contribs&theme=light_github
           path: profile/stats-light.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          # If the token expires or the API fails, keep the last good SVG
+          # instead of committing an error card.
+          fail_on_error: true
 
       - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
@@ -50,6 +56,9 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&count_private=true&theme=dark_github
           path: profile/top-langs-dark.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          # If the token expires or the API fails, keep the last good SVG
+          # instead of committing an error card.
+          fail_on_error: true
 
       - name: Generate top languages card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -58,6 +67,9 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&count_private=true&theme=light_github
           path: profile/top-langs-light.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          # If the token expires or the API fails, keep the last good SVG
+          # instead of committing an error card.
+          fail_on_error: true
 
       - name: Commit cards
         run: |
