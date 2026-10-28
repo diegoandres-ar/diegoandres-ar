@@ -1,165 +1,65 @@
-# Hi, I'm Diego Ariza! 👋
+<div align="center">
+
+# Diego Andrés Ariza
+
+**Full-Stack Developer · Systems Engineering Student**
+
+I build end-to-end products: the data model, the API behind it, and the interface people actually use.
+
+📍 Valledupar, Colombia &nbsp;·&nbsp; 🟢 Open to opportunities
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoandresss)
+
+![Profile views](https://komarev.com/ghpvc/?username=diegoandres-ar&label=profile%20views&color=0e75b6&style=flat-square)
+
+</div>
+
+## 👨‍💻 About
+
+I'm 21, a Systems Engineering student at **Universidad Popular del Cesar**, and a freelance
+full-stack developer. I like owning the whole slice of a product: the data model, the API
+behind it, and the interface on top of it.
+
+- 🧩 Most of my work lives in private repos: **electronic invoicing (POS)**, **political campaign platforms** and **e-commerce**.
+- 🎯 Focus: backend architecture, relational databases and clean REST APIs.
+- 🛠️ Day-to-day stack: **Vue · Nuxt · NestJS · PostgreSQL**.
+- 🤝 Open to full-stack roles and collaborative projects.
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="wave" />
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,vue,nuxt,postgres,redis,docker,linux,cs,dotnet,angular,firebase,py,flutter,git,tailwind&perline=8" alt="Tech stack" />
 </p>
 
----
+<p align="center"><sub>Also worked with: Oracle · SQL Server · MySQL · MongoDB · Dart</sub></p>
 
-## 🚀 About Me
+## 🚀 Featured Work
 
-- 🎓 **Systems Engineering** student, 19 years old, passionate about continuous learning.
-- 💡 I believe challenges and mistakes are the best teachers.
-- 🤝 I love collaborating in teams, sharing ideas, and building together.
-- 🌱 Always exploring new technologies and sharpening my skills.
-- 🎯 Goal: Grow professionally, add real value, and stay motivated every day.
-- ✉️ Let's connect! I'm open to project collaborations, tech talks, or just a friendly chat.
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **Electronic Invoicing POS** · `private` | Point-of-sale system for a Colombian business: inventory, cash register, customers and reports, with DIAN electronic invoicing through Alegra. | NestJS · PostgreSQL · Vue |
+| **Political Campaign Platform** · `private` | Platform for a local political campaign: supporter registry, territory tracking and field reporting. | NestJS · PostgreSQL · Vue |
+| **E-commerce** · `private` | Storefront and admin panel with catalog, orders and online payments through Wompi. | Vue · NestJS · Redis |
 
----
-
-## 🔧 Tech Stack
-
-> **Languages & Runtimes**
-
-
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
----
-
-> **Backend Frameworks**
-
-
-
-![ASP.NET](https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-
-
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-
-
----
-
-> **Frontend Frameworks**
-
-
-
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-
-
-
-![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82)
-
-
-
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-
-
----
-
-> **Mobile Development**
-
-
-
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-
-
-![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-
-
----
-
-> **Databases**
-
-
-
-![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-
-
-
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-
----
-
-> **Tools & Others**
-
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegoandres-ar&show_icons=true&theme=radical" alt="Diego's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandres-ar&layout=compact&theme=radical" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img height="165" src="./profile/stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img height="165" src="./profile/top-langs-light.svg" alt="Most used languages" />
+  </picture>
 </p>
-
----
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/diegoariza" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/diegoandresss__/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/diegoandresss">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
----
-
-<p align="center">Made with ❤️ and ☕ by Diego Ariza</p>
+<p align="center"><sub>Thanks for stopping by.</sub></p>
